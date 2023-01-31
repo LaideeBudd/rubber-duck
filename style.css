@@ -115,7 +115,9 @@ button {
 
 .about > div > img {
   padding-right: 6rem;
+
   width: 150rem;
+  height: 100%;
 }
 
 .about > .flex-container > div > h3 {
@@ -127,7 +129,7 @@ button {
 
 .about > .flex-container > div > p {
   color: white;
-  font-size: 1.45rem;
+  font-size: 1.05rem;
   width: 90%;
 }
 
