@@ -43,15 +43,15 @@ nav > a > p {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 50vh;
-  padding-top: 8em;
+  height: 70vh;
+  padding-top: 8rem;
 }
 
 .hero-text {
   font-family: Chibold;
-  font-size: 75px;
+  font-size: 5rem;
   color: white;
-  padding-bottom: 0.5em;
+  padding-bottom: 0.5rem;
 }
 
 .bigger-text {
@@ -60,7 +60,7 @@ nav > a > p {
 
 button {
   background-color: #29b6f6;
-  padding: 1em 1em 1em 1em;
+  padding: 1rem 1rem 1rem 1rem;
   border-radius: 15px;
   border: none;
   font-family: Chibold;
@@ -73,39 +73,39 @@ button {
 }
 
 .rubber-duck > img {
-  width: 35em;
+  width: 35rem;
 }
 
 .features {
   display: flex;
   justify-content: space-around;
-  padding-top: 10em;
-  padding-bottom: 10em;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
 }
 
 .features > div > h2 {
   text-align: center;
   color: #707070;
   font-family: Chibold;
-  font-size: 2.5em;
+  font-size: 2.5rem;
   padding-bottom: 3rem;
 }
 
 .features > div > p {
   text-align: center;
-  font-size: 1.25em;
+  font-size: 1.25rem;
 }
 
 .about {
   background-color: #29b6f6;
-  padding: 8em;
+  padding: 8rem;
 }
 
 .about > h2 {
   font-family: Chibold;
   font-size: 4rem;
   color: white;
-  padding-bottom: 2em;
+  padding-bottom: 2rem;
 }
 
 .flex-container {
@@ -114,20 +114,20 @@ button {
 }
 
 .about > div > img {
-  padding-right: 6em;
-  width: 150em;
+  padding-right: 6rem;
+  width: 150rem;
 }
 
 .about > .flex-container > div > h3 {
   font-family: Chibold;
   color: white;
   font-size: 2.5rem;
-  padding-bottom: 1em;
+  padding-bottom: 1rem;
 }
 
 .about > .flex-container > div > p {
   color: white;
-  font-size: 1.45em;
+  font-size: 1.45rem;
   width: 90%;
 }
 
@@ -136,7 +136,7 @@ button {
     display: none;
   }
   nav > a > p {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     align-items: center;
     justify-content: space-around;
     padding: none;
@@ -160,11 +160,11 @@ button {
 
   .button2 {
     display: block;
-    padding: 0.5em 3em 0.5em 3em;
+    padding: 0.5rem 3rem 0.5rem 3rem;
   }
 
   .rubber-duck > img {
-    width: 15em;
+    width: 15rem;
   }
 
   .features {
@@ -174,7 +174,7 @@ button {
   }
 
   .features > div {
-    padding-bottom: 2em;
+    padding-bottom: 2rem;
   }
 
   .features > div > h2 {
@@ -182,7 +182,7 @@ button {
   }
 
   .about {
-    padding: 1em;
+    padding: 1rem;
     width: 100%;
   }
 
@@ -196,21 +196,21 @@ button {
   }
 
   .about > div > img {
-    width: 25em;
-    padding: 2em;
+    width: 25rem;
+    padding: 2rem;
     padding-top: 0;
   }
 
   .about > .flex-container > div {
-    padding: 0em;
+    padding: 0rem;
   }
 
   .about > .flex-container > div > h3 {
-    font-size: 2em;
+    font-size: 2rem;
   }
 
   .about > .flex-container > div > p {
     width: 100%;
-    font-size: 1.25em;
+    font-size: 1.25rem;
   }
 }
