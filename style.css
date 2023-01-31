@@ -21,7 +21,7 @@ nav {
   display: flex;
   position: sticky;
   top: 0;
-
+  align-items: center;
   background-color: white;
   width: 100%;
 }
@@ -33,7 +33,7 @@ nav > a > img {
 
 nav > a > p {
   font-family: Chibold;
-  font-size: 3rem;
+  font-size: 2rem;
   color: #707070;
   padding: 1rem;
 }
@@ -49,23 +49,23 @@ nav > a > p {
 
 .hero-text {
   font-family: Chibold;
-  font-size: 4rem;
+  font-size: 3rem;
   color: white;
   padding-bottom: 0.5rem;
 }
 
 .bigger-text {
-  font-size: 7rem;
+  font-size: 6rem;
 }
 
 button {
   background-color: #29b6f6;
-  padding: 1rem 1rem 1rem 1rem;
+  padding: 1.5rem 1.5rem 1.5rem 1.5rem;
   border-radius: 15px;
   border: none;
   font-family: Chibold;
   color: white;
-  font-size: 2em;
+  font-size: 1.75rem;
 }
 
 .button2 {
